@@ -1,7 +1,7 @@
 /*
-OLUWASEUN OLUWATIMILEYIN ATANDA - FINAL GAME PROJECT SUBMISSION
-230104329 
+ FINAL GAME PROJECT 
 
+ 
 Extentions: 
 (1) Add Sounds
 (2) Create Platforms
@@ -12,7 +12,7 @@ Extentions:
 
         Difficulties: 
         I found it difficult to  stop the sounds from replaying several times in the draw function. The draw loop keeps calling the sounds several times when i only want it called once. I also found it diffcult to implement sounds in the background, the background sounds refuse to play when thought it was called in the setup function.
-        
+
         
         Skills learnt and practiced:
         In order to resolve the sound looping in the draw functions i used an if else statement to counter it when it has been called once. I also used the chrome source debugger tools to resolve the background sound not playing, which helped me check why the sound function was not beens called. it deepens my kowledge on the chrome debugger tools.
@@ -37,11 +37,9 @@ Extentions:
         In order to resolve this i went to further read about the factory function of Javascript documentation and practice the function be rewatching the enemies tutor video.
 
 
-
-
-
-
 */
+
+
 
 var gameChar_x;
 var gameChar_y;
