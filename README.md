@@ -1,8 +1,6 @@
 # Scrolling-Game-Project
 Scrolling Game Project in p5.js
 
-
-# Scrolling Game Project
 ![Screenshot 2023-10-03 at 5 11 48 am](https://github.com/DevOluwaseun/Scrolling-Game-Project/assets/81088771/d13b22de-6abf-4c0e-99ff-a6574d78edb3)
 
 
