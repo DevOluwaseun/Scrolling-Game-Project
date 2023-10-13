@@ -33,8 +33,9 @@ If you'd like to contribute to this project, follow these steps:
 
 ## Acknowledgments
 
-## Contact
 
+
+## Contact
 Oluwaseun Atanda
 - GitHub: https://github.com/DevOluwaseun
 - Email: devOluwaseun@gmail.com
